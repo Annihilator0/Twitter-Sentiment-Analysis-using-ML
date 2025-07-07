@@ -86,48 +86,6 @@ Happy coding! 🚀
 
 ---
 
-## ✅ **How to edit your README on GitHub**
-
-Here’s how you can **replace your old README** with this new version:
-
----
-
-### 🗂️ **Step 1: Go to your repository**
-
-- Open your repo on GitHub (example: [https://github.com/Annihilator0/Twitter-Sentiment-Analysis-using-ML](https://github.com/Annihilator0/Twitter-Sentiment-Analysis-using-ML)).
-
----
-
-### 📝 **Step 2: Open the README.md**
-
-- Click on `README.md` in the file list.
-
----
-
-### ✏️ **Step 3: Click the Edit button**
-
-- On the top-right of the file view, click the **pencil icon** (`Edit this file`).
-
----
-
-### 🧹 **Step 4: Replace the content**
-
-- Select all the existing text in the editor.
-- Delete it.
-- Paste the **new README** content above.
-
----
-
-### ✅ **Step 5: Commit your changes**
-
-- Scroll down below the editor.
-- In the **Commit changes** box:
-  - **Commit message:** `Update README.md`
-  - Leave “Commit directly to the `main` branch” selected.
-- Click the **green “Commit changes”** button.
-
----
-
 
 
 
