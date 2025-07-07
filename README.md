@@ -128,17 +128,6 @@ Here’s how you can **replace your old README** with this new version:
 
 ---
 
-### 🎉 Done!
-
-Your new README will instantly appear on the repository homepage.
-
----
-
-**Tip:** You can also click the **“Preview”** tab next to “Edit” to see how it will look before committing!
-
----
-
-If you’d like, I can write a **`requirements.txt`** too — just say **"yes"!** 🚀
 
 
 
